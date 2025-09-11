@@ -1,2 +1,2 @@
 # MyFabric
-Repo for My Fabric items
+Repo for My Fabric items for JMG
